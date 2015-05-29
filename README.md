@@ -25,7 +25,7 @@ You will need to create a file called `build-vars.rc`. See
 
 You will need to set paths for:
 
-* The [Epidemic]([Epidemic](https://github.com/sseefried/open-epidemic-game) repo
+* The [Epidemic](https://github.com/sseefried/open-epidemic-game) repo
 * The Android NDK
 * the directory containing static C libraries that Epidemic requires.
 
